@@ -1,4 +1,5 @@
-# coord_traffic
+# Traffic Coordination
+
 A traffic simulator created for CPSC 3500 by Edward Gao.
 
 ### How to compile
